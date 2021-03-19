@@ -1,4 +1,4 @@
-# Projeto Star Treks (Frontend)
+# Projeto Star Treks
 
 http://normal-plane.surge.sh/
 
